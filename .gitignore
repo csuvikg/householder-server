@@ -1,0 +1,14 @@
+# Idea
+.idea/
+*.iml
+
+# Gradle
+.gradle
+build/
+out/
+!gradle-wrapper.jar
+
+# Package Files
+*.jar
+*.war
+*.ear
